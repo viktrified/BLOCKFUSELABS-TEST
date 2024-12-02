@@ -1,4 +1,4 @@
-let input1 = ["flower", "flow", "fight"];
+let input1 = ["flower", "flow", "flight"];
 let input2 = ["dog", "racecar", "car"];
 
 const findLongestPrefix = (arr) => {
@@ -12,4 +12,4 @@ const findLongestPrefix = (arr) => {
     }
   }
 };
-console.log(findLongestPrefix(input2));
+console.log(findLongestPrefix(input1));
