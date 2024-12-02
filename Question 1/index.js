@@ -12,5 +12,4 @@ const findLongestPrefix = (arr) => {
     }
   }
 };
-// console.log(input1[0].substring(0,2))
 console.log(findLongestPrefix(input2));
